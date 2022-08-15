@@ -1,9 +1,9 @@
 img {
     width: 30%;
     transition: 5.0s;
-    margin: 40px 0;
+    margin: 80px 0;
 }
 
 img:hover {
-    transform: translateX(33em) rotate(3turn);
+    transform: translateX(45em) rotate(3turn);
 }
